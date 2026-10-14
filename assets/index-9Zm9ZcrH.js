@@ -2013,4 +2013,4 @@ margin: 10px 0px;
 			font-size: 16px;
 		}
 	}
-`;(0,Bn.createRoot)(document.getElementById(`root`)).render((0,V.jsx)(x.StrictMode,{children:(0,V.jsx)(On,{basename:`/Taygeta`,children:(0,V.jsxs)(mc,{i18n:K,children:[(0,V.jsx)(q,{}),(0,V.jsx)(Wu,{})]})})}));
+`;(0,Bn.createRoot)(document.getElementById(`root`)).render((0,V.jsx)(x.StrictMode,{children:(0,V.jsx)(On,{basename:`/Taygeta/`,children:(0,V.jsxs)(mc,{i18n:K,children:[(0,V.jsx)(q,{}),(0,V.jsx)(Wu,{})]})})}));
