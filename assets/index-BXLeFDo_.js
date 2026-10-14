@@ -1568,6 +1568,7 @@ margin: 10px 0px;
 
 
 	button {
+		color: var(--black);
 		cursor: pointer;
 		transition: all 0.3s ease;
 		@media (hover: hover) {
